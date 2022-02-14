@@ -1,0 +1,70 @@
+body{
+  background-image: url("weaving-background3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.star{
+  height: 60px;
+  margin-left: 400px;
+  position: fixed;
+}
+
+.star:hover{
+  opacity: 0;
+}
+
+.star1{
+  height: 200px;
+  margin-left: 900px;
+  margin-top: 200px;
+  position: fixed;
+}
+
+.star1:hover{
+  opacity: 0.3;
+}
+
+.star2{
+  height: 70px;
+  margin-left: 200px;
+  margin-top: 500px;
+  position: fixed;
+}
+
+.star2:hover{
+  opacity: 0.6;
+}
+
+.star3{
+  height: 60px;
+  margin-left: 700px;
+  margin-top: 80px;
+  position: fixed;
+}
+
+.star3:hover{
+  opacity: 0.8;
+}
+
+.star4{
+  height: 100px;
+  margin-left: 30px;
+  margin-top: 500px;
+  position: fixed;
+}
+
+.star4:hover{
+  opacity: 0;
+}
+
+.star5{
+  height: 30px;
+  margin-left: 40px;
+  margin-top: 400px;
+  position: fixed;
+}
+
+.star5:hover{
+  opacity: 0.4;
+}
